@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32428.249
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cartwinupd", "cartwinupd\cartwinupd.csproj", "{910A9FDD-30AE-4D4C-9438-B3616911BE99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{910A9FDD-30AE-4D4C-9438-B3616911BE99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{910A9FDD-30AE-4D4C-9438-B3616911BE99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{910A9FDD-30AE-4D4C-9438-B3616911BE99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{910A9FDD-30AE-4D4C-9438-B3616911BE99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DEAA48F-2D9D-43CE-BFB9-F006F83CFFBB}
+	EndGlobalSection
+EndGlobal
